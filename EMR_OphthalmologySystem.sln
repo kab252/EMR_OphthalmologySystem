@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMR_OphthalmologySystem", "EMR_OphthalmologySystem\EMR_OphthalmologySystem.csproj", "{CE515EE4-CFBF-426D-AEA2-54BA89C44834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMR_OphthalmologySystem.Tests", "EMR_OphthalmologySystem.Tests\EMR_OphthalmologySystem.Tests.csproj", "{175977A4-E08D-4C9F-96F4-A3A15C854707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE515EE4-CFBF-426D-AEA2-54BA89C44834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE515EE4-CFBF-426D-AEA2-54BA89C44834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE515EE4-CFBF-426D-AEA2-54BA89C44834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE515EE4-CFBF-426D-AEA2-54BA89C44834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175977A4-E08D-4C9F-96F4-A3A15C854707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175977A4-E08D-4C9F-96F4-A3A15C854707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175977A4-E08D-4C9F-96F4-A3A15C854707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175977A4-E08D-4C9F-96F4-A3A15C854707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7836F659-CCAF-450F-9805-0F399922A294}
+	EndGlobalSection
+EndGlobal
